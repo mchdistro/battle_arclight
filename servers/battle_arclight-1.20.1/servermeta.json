@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///D:/Coding/Projects/mchlauncher/Distro/battle_arclight/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "Battle Arclight",
+    "description": "Minecraft 1.20.1 (Forge v47.4.4)",
+    "icon": "https://github.com/mchdistro/battle_arclight/raw/main/server-icon.png",
+    "address": "veloyuujun.메인.한국",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "47.4.4"
+  },
+  "untrackedFiles": []
+}
