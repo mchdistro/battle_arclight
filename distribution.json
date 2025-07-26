@@ -1098,7 +1098,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 401028,
-            "url": "https://github.com/mchdistro/battle_arclight/raw/main/servers/battle_arclight-1.20.1/forgemods/required/day_counter_v3.0_1.18.2_[FORGE].jar",
+            "url": "https://github.com/mchdistro/battle_arclight/raw/main/servers/battle_arclight-1.20.1/forgemods/required/day_counter_v3.0_1.18.2.jar",
             "MD5": "13468d1ce20b2d70a341eb536e2092f8"
           }
         },
