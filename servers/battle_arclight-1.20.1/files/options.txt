@@ -1,5 +1,6 @@
 version:3465
 realmsNotifications:false
+resourcePacks:["vanilla","mod_resources","file/VisibleOres2.10.zip"]
 lang:ko_kr
 narrator:0
 tutorialStep:none

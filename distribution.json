@@ -553,13 +553,22 @@
           }
         },
         {
+          "id": "oculus.properties",
+          "name": "oculus.properties",
+          "type": "File",
+          "artifact": {
+            "size": 23,
+            "url": "https://github.com/mchdistro/battle_arclight/raw/main/servers/battle_arclight-1.20.1/files/config/oculus.properties",
+            "path": "config/oculus.properties"
+          }
+        },
+        {
           "id": "options.txt",
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 139,
+            "size": 209,
             "url": "https://github.com/mchdistro/battle_arclight/raw/main/servers/battle_arclight-1.20.1/files/options.txt",
-            "MD5": "6d445ea08bbf7bc46704c0be9d2eb865",
             "path": "options.txt"
           }
         },
