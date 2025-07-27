@@ -493,16 +493,6 @@
           }
         },
         {
-          "id": "journeymap:journeymap:5.10.3@jar",
-          "name": "Journeymap",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 7160405,
-            "url": "https://github.com/mchdistro/battle_arclight/raw/main/servers/battle_arclight-1.20.1/forgemods/required/journeymap-1.20.1-5.10.3-forge.jar",
-            "MD5": "2181bd6b7161f06726560b9382235611"
-          }
-        },
-        {
           "id": "com.hyfata.najoan.koreanpatch.client:koreanpatch:1.8.6+mc1.20.1@jar",
           "name": "Korean Patch",
           "type": "ForgeMod",
